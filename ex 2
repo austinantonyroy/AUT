@@ -1,3 +1,4 @@
 git config --global user.name "AUSTIN"
 git config --global user.email "austinantony@karunya.edu.in"
-git config --global list
+git config --global init.defaultBranch main
+git config --list
